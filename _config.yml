@@ -48,17 +48,21 @@ features                                  :
     description                           : #Preview app video on the iPhone device simply by placing your video files in the videos folder.
     fontawesome_icon_name                 : #play-circle
 
-  - title                                 : #Automatic Icon and Metadata
-    description                           : #Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : #sync
+  - title                                 : Supports WishKit!
+    description                           : More details here https://www.wishkit.io
+    fontawesome_icon_name                 : heart
 
-  - title                                 : #Easy to Tweak
-    description                           : #Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : #adjust
+  - title                                 : Theme
+    description                           : Automatic darkmode theme. You can always change it in the settings.
+    fontawesome_icon_name                 : adjust
   
-  - title                                 : #Feature List
-    description                           : #Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : #star
+  - title                                 : Widgets
+    description                           : Widgets for the lock screen and home screen on the iPhone and iPad.
+    fontawesome_icon_name                 : star
+  
+  - title                                 : Prices
+    description                           : 22.99$ Lifetime, 1.99$ monthly or 17.99$ yearly.
+    fontawesome_icon_name                 : money-bill
 
   - title                                 : #Smart App Banner
     description                           : #Display a smart app banner on iOS devices.
