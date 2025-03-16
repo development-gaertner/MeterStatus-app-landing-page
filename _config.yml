@@ -49,7 +49,7 @@ features                                  :
     fontawesome_icon_name                 : #play-circle
 
   - title                                 : Supports WishKit!
-    description                           : More details here [https://www.wishkit.io](https://www.wishkit.io)
+    description                           : More details here https://www.wishkit.io
     fontawesome_icon_name                 : heart
 
   - title                                 : Theme
@@ -64,7 +64,7 @@ features                                  :
     description                           : 19.99$ Lifetime access to the pro version.
     fontawesome_icon_name                 : money-bill
   
-  - title                                 : Subsciption
+  - title                                 : Subscription
     description                           : 0.99$ monthly or 9.99$ yearly to get access to the pro version.
     fontawesome_icon_name                 : money-bill
 
