@@ -60,8 +60,12 @@ features                                  :
     description                           : Widgets for the lock screen and home screen on the iPhone and iPad.
     fontawesome_icon_name                 : star
   
-  - title                                 : Prices
-    description                           : 22.99$ Lifetime, 1.99$ monthly or 17.99$ yearly.
+  - title                                 : Lifetime purchase
+    description                           : 19.99$ Lifetime access to the pro version.
+    fontawesome_icon_name                 : money-bill
+  
+  - title                                 : Subsciption
+    description                           : 0.99$ monthly or 9.99$ yearly to get access to the pro version.
     fontawesome_icon_name                 : money-bill
 
   - title                                 : #Smart App Banner
