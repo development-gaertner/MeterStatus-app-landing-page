@@ -49,7 +49,7 @@ features                                  :
     fontawesome_icon_name                 : #play-circle
 
   - title                                 : Supports WishKit!
-    description                           : More details here https://www.wishkit.io
+    description                           : More details here [https://www.wishkit.io](https://www.wishkit.io)
     fontawesome_icon_name                 : heart
 
   - title                                 : Theme
