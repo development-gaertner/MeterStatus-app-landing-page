@@ -4,11 +4,11 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-# Privacy Policy for MeterStatus for SwitchBot
+# Privacy Policy for MeterStatus
 
 **Last updated:** March 9, 2025
 
-This policy applies to the collection and use of information provided by users of our app **"MeterStatus for SwitchBot"** ("MeterStatus", "app") and our website at [www.meterstatus.app](https://www.meterstatus.app).
+This policy applies to the collection and use of information provided by users of our app **"MeterStatus"** ("MeterStatus", "app") and our website at [www.meterstatus.app](https://www.meterstatus.app).
 
 ## Representative
 **Tim Gärtner**  
@@ -31,6 +31,10 @@ MeterStatus uses the following third-party services:
 - **SwitchBot API**: The app communicates with SwitchBot's API to retrieve data from your devices.  
   For more information, please refer to the [SwitchBot API Documentation](https://github.com/OpenWonderLabs/SwitchBotAPI).
 
+## Fair Use of Data
+
+The data collected from your SwitchBot devices is used solely for non-commercial purposes and adheres to fair use principles. MeterStatus does not monetize or exploit your data in any way and ensures its usage remains limited to providing functionality within the app.
+
 ## Data Security
 
 We implement appropriate technical and organizational measures to protect your personal information against accidental or unlawful destruction, loss, alteration, unauthorized disclosure, or access.
@@ -47,6 +51,10 @@ You have the right to:
 
 To exercise any of these rights, please contact us using the information provided in the "Representative" section.
 
+## Disclaimer
+
+*MeterStatus* is an unofficial application and is not affiliated with, endorsed by, or associated with SwitchBot Inc. in any way. All trademarks, service marks, and registered trademarks mentioned in this app or on our website are the property of their respective owners. Their use does not imply any affiliation or endorsement.
+
 ## Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last updated" date.
@@ -57,11 +65,11 @@ If you have any questions or concerns about this privacy policy, please contact 
 
 ---
 
-# Datenschutzerklärung für MeterStatus für SwitchBot
+# Datenschutzerklärung für MeterStatus
 
 **Zuletzt aktualisiert:** 9. März 2025
 
-Diese Richtlinie gilt für die Erfassung und Verwendung von Informationen, die von Benutzern unserer App **"MeterStatus für SwitchBot"** ("MeterStatus", "App") und unserer Website unter [www.meterstatus.app](https://www.meterstatus.app) bereitgestellt werden.
+Diese Richtlinie gilt für die Erfassung und Verwendung von Informationen, die von Benutzern unserer App **"MeterStatus"** ("MeterStatus", "App") und unserer Website unter [www.meterstatus.app](https://www.meterstatus.app) bereitgestellt werden.
 
 ## Vertreter
 **Tim Gärtner**  
@@ -84,6 +92,10 @@ MeterStatus verwendet folgende Dienste von Drittanbietern:
 - **SwitchBot API**: Die App kommuniziert mit der SwitchBot-API, um Daten von Ihren Geräten abzurufen.  
   Weitere Informationen finden Sie in der [SwitchBot API-Dokumentation](https://github.com/OpenWonderLabs/SwitchBotAPI).
 
+## Fairer Gebrauch von Daten
+
+Die von Ihren SwitchBot-Geräten erfassten Daten werden ausschließlich für nicht-kommerzielle Zwecke verwendet und entsprechen den Grundsätzen des fairen Gebrauchs. MeterStatus monetarisiert oder nutzt Ihre Daten in keiner Weise und stellt sicher, dass deren Nutzung auf die Funktionalität innerhalb der App beschränkt bleibt.
+
 ## Datensicherheit
 
 Wir implementieren angemessene technische und organisatorische Maßnahmen, um Ihre personenbezogenen Daten vor zufälliger oder unrechtmäßiger Zerstörung, Verlust, Veränderung, unbefugter Offenlegung oder Zugriff zu schützen.
@@ -99,6 +111,10 @@ Sie haben das Recht:
 - Die Übertragung Ihrer personenbezogenen Daten zu verlangen
 
 Um eines dieser Rechte auszuüben, kontaktieren Sie uns bitte unter den im Abschnitt "Vertreter" angegebenen Informationen.
+
+## Haftungsausschluss
+
+*MeterStatus* ist eine inoffizielle Anwendung und steht in keiner Verbindung zu, wird nicht unterstützt von und ist nicht assoziiert mit SwitchBot Inc. Alle erwähnten Marken, Dienstleistungsmarken und eingetragenen Marken in dieser App oder auf unserer Website sind Eigentum ihrer jeweiligen Inhaber. Ihre Verwendung impliziert keine Verbindung oder Unterstützung.
 
 ## Änderungen dieser Datenschutzerklärung
 
